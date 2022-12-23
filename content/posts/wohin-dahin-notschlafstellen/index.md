@@ -45,7 +45,7 @@ Insgesamt gab es vom 27.5 bis am 31.8, 542 Übernachtungen.
 
 
 ```
-
+{{</box>}}
 ```
 
 ## **Was und wer ist Pluto?**
