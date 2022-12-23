@@ -30,7 +30,6 @@ Notschlafstellen unterscheiden sich von Notunterkünften dadurch, dass sie nur n
 {{<box title="Plutos Angebot">}}
 ```
 
-
 Das Haus, wo die Notschlafstelle Pluto sich befindet, ist zweistöckig. Es bietet 6-7
 Schlafplätze. Jedoch hat mir Stéphanie verraten, dass es bereits mehrmals passiert 
 ist, dass mehr Jugendliche dort hatten als Schlafplätze. In solchen 
@@ -54,7 +53,7 @@ Pluto ist eine Jugendnotschlafstelle in Bern, die seit dem 27.5.2022 offen ist. 
 ![Ein Einzelzimmer bei Pluto](bild-rep-2.1.jpg)
 
 ```
-{{<box title="Plutos Angebot">}}
+{{<box title="Plutos Haus">}}
 ```
 
 Bei Pluto gibt es drei Doppelzimmer und zwei Einzelzimmer. Jedes Zimmer ist nach einem Planeten im Sonnensystem benannt. Es hat zwei Badezimmer, wobei es in einem eine Badewanne mit Dusche und im anderen nur eine Dusche hat. Im ersten Stock hat es, neben anderen Zimmern, eine Küche, ein Esszimmer und ein Wohnzimmer. Das Haus ist sehr schön gebaut und auch schön dekoriert. Bei Pluto ist es auch erlaubt ein Haustier wie ein Hund oder eine Katze zu bringen. Dafür hat es auch eine kleine Schale am Boden im Esszimmer.  
