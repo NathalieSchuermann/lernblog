@@ -43,7 +43,6 @@ und am Morgen Morgenessen. Durchschnittlich bleiben die Besucher und Besucherinn
 15 Tage. Der kürzeste Aufenthalt hat 1nacht gedauert, der Längste 57 Nächte. 
 Insgesamt gab es vom 27.5 bis am 31.8, 542 Übernachtungen. 
 
-
 ```
 {{</box>}}
 ```
@@ -53,6 +52,16 @@ Insgesamt gab es vom 27.5 bis am 31.8, 542 Übernachtungen.
 Pluto ist eine Jugendnotschlafstelle in Bern, die seit dem 27.5.2022 offen ist. In dieser kurzen Zeit haben bereits 35 Personen dort geschlafen. Sie befindet sich an der Studerstrasse 44. Die Notschlafstelle bietet Schutz und eine Unterkunft für Jugendliche und junge Erwachsene zwischen 14 und 23 Jahren. Sie ist zwischen 18:00 und 09:00 Uhr geöffnet. Während den Öffnungszeiten sind von den acht Mitarbeitern und Mitarbeiterinnen immer mindestens zwei vor Ort. Im Gespräch mit Stéphanie erfahre ich, dass vier der Mitarbeiter und Mitarbeiterinnen Fachpersonen der Sozialen Arbeit und vier Profis in ihrem eigenen sozialwissenschaftlichen Bereich sind. Somit sind alle angestellten Personen ausgebildet, die Jugendlichen und junge Erwachsene zu beraten, falls dies notwendig oder gefragt ist. Pluto bietet den Jugendlichen und jungen Erwachsenen nämlich nicht nur eine Unterkunft, sondern auch Hilfe an, eine individuelle und möglichst nachhaltige Lösung für ihre Probleme zu finden. Hierbei können die Jugendliche und junge Erwachsene selber entscheiden, wer worüber informiert wird. Als ich gefragt habe, ob dies auch bei häuslicher Gewalt so sei, hat Stéphanie mir erklärt, dass bei Erwachsenen die Entscheidung bei ihnen liegt. «Wir können sie unterstützen und beraten, aber wir wollen niemanden in irgendetwas reindrängen.» Bei Minderjährigen jedoch müssen nach zwei Tagen die Eltern oder der Vormund informiert werden, wo das Kind/die betreute Person ist. Wenn nun häusliche Gewalt vermutet oder bestätigt wird, können die Mitarbeiter und Mitarbeiterinnen auch die KESB (Kinder- und Erwachsenenschutz Behörde) oder andere involvierte Personen informieren. Dies war jedoch bis jetzt noch nicht notwendig, weil immer bereits jemand involviert war. Es ist auch möglich, die Notschlafstelle zu besuchen und ein Gespräch zu führen, ohne die Nacht zu verbringen. 
 
 ![Ein Einzelzimmer bei Pluto](bild-rep-2.1.jpg)
+
+```
+{{<box title="Plutos Angebot">}}
+```
+
+Bei Pluto gibt es drei Doppelzimmer und zwei Einzelzimmer. Jedes Zimmer ist nach einem Planeten im Sonnensystem benannt. Es hat zwei Badezimmer, wobei es in einem eine Badewanne mit Dusche und im anderen nur eine Dusche hat. Im ersten Stock hat es, neben anderen Zimmern, eine Küche, ein Esszimmer und ein Wohnzimmer. Das Haus ist sehr schön gebaut und auch schön dekoriert. Bei Pluto ist es auch erlaubt ein Haustier wie ein Hund oder eine Katze zu bringen. Dafür hat es auch eine kleine Schale am Boden im Esszimmer.  
+
+```
+{{</box>}}
+```
 
 ## **Wo gibt es Notschlafstellen? Wer darf dorthin? Wieso geht man dorthin?**
 
