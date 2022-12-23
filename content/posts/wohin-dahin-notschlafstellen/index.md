@@ -1,7 +1,7 @@
 +++
 title = "Wohin? Dahin! Notschlafstellen. "
 date = "2022-12-22"
-draft = false
+draft = true
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "lol.jpeg"
@@ -14,7 +14,7 @@ Auf der Suche nach Antworten bin ich auf die Notschlafstelle Pluto gestossen. Na
 
 ![](bild-rep-1.2.jpg "Aussengebäude Pluto")
 
-**Was sind Notschlafstellen?**
+## **Was sind Notschlafstellen?**
 
 Notschlafstellen sind Unterkünfte für Personen, welche in Notsituationen einen Ort zum Schlafen brauchen. Je nach Notschlafstelle sind unterschiedliche Personengruppen im Fokus. Es gibt Notschlafstellen für Frauen, Jugendliche oder Obdachlose. Bei den meisten Notschafstellen muss man sich jeden Abend neu anmelden. Aus diesem Grund hat man nicht jeden Abend garantiert einen Platz. Bei wenigen Notschlafstellen kann man sich abonnieren, damit man jeden Tag sicher einen Platz hat. Es gibt jedoch auch Notschlafstellen, welche walk-in sind und keine Anmeldung erfordern. Pluto ist so eine. Man kann ohne Anmeldung hingehen und sie nehmen einen auf. 
 
@@ -24,13 +24,13 @@ Notschlafstellen unterscheiden sich von Notunterkünften dadurch, dass sie nur n
 >
 > *\-Stéphanie Schäfges*
 
-**Was und wer ist Pluto?**
+## **Was und wer ist Pluto?**
 
 Pluto ist eine Jugendnotschlafstelle in Bern, die seit dem 27.5.2022 offen ist. In dieser kurzen Zeit haben bereits 35 Personen dort geschlafen. Sie befindet sich an der Studerstrasse 44. Die Notschlafstelle bietet Schutz und eine Unterkunft für Jugendliche und junge Erwachsene zwischen 14 und 23 Jahren. Sie ist zwischen 18:00 und 09:00 Uhr geöffnet. Während den Öffnungszeiten sind von den acht Mitarbeitern und Mitarbeiterinnen immer mindestens zwei vor Ort. Im Gespräch mit Stéphanie erfahre ich, dass vier der Mitarbeiter und Mitarbeiterinnen Fachpersonen der Sozialen Arbeit und vier Profis in ihrem eigenen sozialwissenschaftlichen Bereich sind. Somit sind alle angestellten Personen ausgebildet, die Jugendlichen und junge Erwachsene zu beraten, falls dies notwendig oder gefragt ist. Pluto bietet den Jugendlichen und jungen Erwachsenen nämlich nicht nur eine Unterkunft, sondern auch Hilfe an, eine individuelle und möglichst nachhaltige Lösung für ihre Probleme zu finden. Hierbei können die Jugendliche und junge Erwachsene selber entscheiden, wer worüber informiert wird. Als ich gefragt habe, ob dies auch bei häuslicher Gewalt so sei, hat Stéphanie mir erklärt, dass bei Erwachsenen die Entscheidung bei ihnen liegt. «Wir können sie unterstützen und beraten, aber wir wollen niemanden in irgendetwas reindrängen.» Bei Minderjährigen jedoch müssen nach zwei Tagen die Eltern oder der Vormund informiert werden, wo das Kind/die betreute Person ist. Wenn nun häusliche Gewalt vermutet oder bestätigt wird, können die Mitarbeiter und Mitarbeiterinnen auch die KESB (Kinder- und Erwachsenenschutz Behörde) oder andere involvierte Personen informieren. Dies war jedoch bis jetzt noch nicht notwendig, weil immer bereits jemand involviert war. Es ist auch möglich, die Notschlafstelle zu besuchen und ein Gespräch zu führen, ohne die Nacht zu verbringen. 
 
 ![](bild-rep-2.1.jpg "Ein Einzelzimmer bei Pluto")
 
-**Wo gibt es Notschlafstellen? Wer darf dorthin? Wieso geht man dorthin?**
+## **Wo gibt es Notschlafstellen? Wer darf dorthin? Wieso geht man dorthin?**
 
 Es gibt viele Notschlafstellen, die überall der Welt verteilt sind. Alleine in Bern gibt es über 100 Notschlafplätze. Notschlafstellen sind ein weltweites Konzept. (Jedoch verändern sich kleine Sachen und Regeln von Land zu Land.) In Amerika z.B. sind Notschlafstellen als Homeless-Shelters bekannt. Jede Notschlafstelle hat ihre eigene Kategorie und jeder und jede darf dorthin, wenn er oder sie dieser angehört. Zum Beispiel gibt es welche nur für Frauen, welche nur für nicht Junkies, welche nur für Junkies, welche nur für Jugendliche und so weiter. Diese Einschränkungen können jedoch zu Problemen führen. Wenn z.B. eine transsexuelle Frau in eine Notschlafstelle für Frauen will, kann es sein, dass sie abgelehnt wird und eine andere Lösung suchen muss oder schlimmstenfalls die Nacht auf der Strasse verbringen muss. 
 
@@ -40,7 +40,7 @@ Es gibt viele Gründe, wieso eine Person das Bedürfnis hat, zu einer Notschlafs
 >
 > *\-Stéphanie Schäfges*
 
-**Soziale Hilfe bei Notschlafstellen**
+## **Soziale Hilfe bei Notschlafstellen**
 
 Bei manchen Notschlafstellen sind Experten dort, damit die Besucher professionelle Hilfe erhalten können. Diese sind dort, um mit den Besuchern eine effektive und nachhaltige Lösung zu ihren Problemen zu finden. Dies ist kostenfrei und die Experten werden von der Notschlafstelle oder vom Staat bezahlt, doch mehr zu den Finanzen weiter unten im Text. Die Experten helfen die Besucher Lösungen zu finden, jedoch können sie die Besucher nicht zwingen etwas zu tun. Stéphanie hat mir erklärt, dass sie nur bei Minderjährigen jemanden nach zwei Tagen informieren müssen. Bei Erwachsenen hingegen machen sie nur, was die Person wünscht. «Wir können sie unterstützen und beraten, aber wir wollen niemanden in irgendetwas reindrängen.»
 
@@ -48,6 +48,6 @@ Bei Minderjährigen ist dies jedoch anders. Da müssen nach 48h die Eltern, ein 
 
 ![](bild-rep-3.2.jpg "Ein blick auf den Gang bei Pluto")
 
-**Letztens**
+## **Letztens**
 
 Ich habe dank Stéphanie Schäfges und dem Pluto-Team viel über die Notschlafstelle Pluto erfahren. Ich hoffe sehr, dass Pluto weiterhin Erfolg hat. Auch hoffe ich, mit dieser Reportage auf Notschlafstellen aufmerksam zu machen. Pluto wird durch Spenden finanziert. Seien dies in der Form von alten Kleidern oder Geld. Das nächste Mal, dass sie ausmisten, freuen sie sich sicher über ein Paar Jeans oder einen Pulli. Zusätzlich bin ich sehr froh erfahren zu haben, wohin Jugendliche und junge Menschen hinkönnen, falls sie mal von zuhause wegmüssen. Denn jeder, inklusive mich, braucht mal eine Pause vom Alltag.
