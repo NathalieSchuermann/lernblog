@@ -28,6 +28,9 @@ Notschlafstellen unterscheiden sich von Notunterkünften dadurch, dass sie nur n
 
 ```
 {{<box title="Plutos Angebot">}}
+```
+
+
 Das Haus, wo die Notschlafstelle Pluto sich befindet, ist zweistöckig. Es bietet 6-7
 Schlafplätze. Jedoch hat mir Stéphanie verraten, dass es bereits mehrmals passiert 
 ist, dass mehr Jugendliche dort hatten als Schlafplätze. In solchen 
@@ -39,7 +42,10 @@ Wäsche waschen muss, stehen Waschmaschinen bereit. Am Abend gibt es immer Nacht
 und am Morgen Morgenessen. Durchschnittlich bleiben die Besucher und Besucherinnen 
 15 Tage. Der kürzeste Aufenthalt hat 1nacht gedauert, der Längste 57 Nächte. 
 Insgesamt gab es vom 27.5 bis am 31.8, 542 Übernachtungen. 
-{{</box>}}
+
+
+```
+
 ```
 
 ## **Was und wer ist Pluto?**
