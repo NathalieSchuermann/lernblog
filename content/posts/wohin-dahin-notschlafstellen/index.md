@@ -9,12 +9,12 @@ description = "\nWas machen, wenn man von zuhause einfach mal wegmuss? Wohin wen
 +++
 **Eine Reportage von Nathalie Schürmann**
 
-![[Das Haus, wo die Notschlafstelle Pluto sich befindet, ist zweistöckig. Es bietet 6-7 Schlafplätze. Jedoch hat mir Stéphanie verraten, dass es bereits mehrmals passiert ist, dass mehr Jugendliche dort hatten als Schlafplätze. In solchen Ausnahmesituationen legen sie noch Matratzen aus und quetschen sich zusammen. Dies hat mich sehr berührt, weil man in so Momenten merkt, wie viele junge Menschen manchmal eine Unterkunft brauchen. Es hat auch Duschen und, falls jemand mehrere Nächte bleiben will, gibt es die Option Sachen dort zu lassen. Falls jemand mal Wäsche waschen muss, stehen Waschmaschinen bereit. Am Abend gibt es immer Nachtessen und am Morgen Morgenessen. Durchschnittlich bleiben die Besucher und Besucherinnen 15 Tage. Der kürzeste Aufenthalt hat 1nacht gedauert, der Längste 57 Nächte. Insgesamt gab es vom 27.5 bis am 31.8, 542 Übernachtungen.]]( "Angebot bei Pluto")
+![Das Wohnzimmer von Pluto](lol.jpeg)
 
 Sobald meine Sachen gepackt waren, habe ich mein Haus verlassen und bin zur Bushaltestelle gelaufen. Jetzt sitze ich hier und warte auf den Bus. Streit ist etwas, was ich in meinem Leben nicht brauche und wenn ich weiss, dass es nichts bringt zu diskutieren gehe ich einfach raus. Damit der Streit nicht eskaliert, muss man manchmal weggehen, damit niemand verletzt wird. Wenn ich geblieben wäre, hätte ich meine Mutter verletzt, was nichts gebracht hätte, weshalb ich lieber gehe. Während ich hier sitze und auf den Bus warte, lasse ich meine Gedanken wandern. Was machen Jugendliche, welche von zuhause wegwollen, aber nirgends hinkönnen? Ich kann in solchen Fällen einfach von meiner Mutter zu meinem Vater oder umgekehrt. Jedoch können dies nicht alle Jugendliche. Und bei Freunden schlafen unter der Woche ist immer schwierig. Dazu fragen die Eltern der Freunde immer, ob die eigenen Eltern auch einverstanden sind. Wohin diese Jugendliche gehen, frage ich mich heute noch, weswegen ich auf Antworten Suche gehe. 
 Auf der Suche nach Antworten bin ich auf die Notschlafstelle Pluto gestossen. Nach weiterer Recherche hat sich mein Interesse dafür verstärkt. Also habe ich entschieden, das Pluto-Team zu fragen, ob ich mit ihm ein Interview führen darf. Zum Glück haben sie ja geantwortet und am Montag, dem 7.11.2022 um 10:30 Uhr bin ich bei Pluto angekommen. Stéphanie Schäfges hat mich empfangen. Nach einer kurzen Tour haben wir uns an den Tisch gesetzt und das Interview gemacht.  
 
-![Aussengebäude](bild-rep-1.2.jpg "Aussengebäude Pluto")
+![Aussengebäude Pluto](bild-rep-1.2.jpg)
 
 ## **Was sind Notschlafstellen?**
 
@@ -25,12 +25,18 @@ Notschlafstellen unterscheiden sich von Notunterkünften dadurch, dass sie nur n
 > *«Denn schliesslich entscheiden sie, wie sie fortfahren wollen.»*
 >
 > *\-Stéphanie Schäfges*
+>
+> ```
+> {{<box title="Plutos Angebot">}}
+> Das Haus, wo die Notschlafstelle Pluto sich befindet, ist zweistöckig. Es bietet 6-7 Schlafplätze. Jedoch hat mir Stéphanie verraten, dass es bereits mehrmals passiert ist, dass mehr Jugendliche dort hatten als Schlafplätze. In solchen Ausnahmesituationen legen sie noch Matratzen aus und quetschen sich zusammen. Dies hat mich sehr berührt, weil man in so Momenten merkt, wie viele junge Menschen manchmal eine Unterkunft brauchen. Es hat auch Duschen und, falls jemand mehrere Nächte bleiben will, gibt es die Option Sachen dort zu lassen. Falls jemand mal Wäsche waschen muss, stehen Waschmaschinen bereit. Am Abend gibt es immer Nachtessen und am Morgen Morgenessen. Durchschnittlich bleiben die Besucher und Besucherinnen 15 Tage. Der kürzeste Aufenthalt hat 1nacht gedauert, der Längste 57 Nächte. Insgesamt gab es vom 27.5 bis am 31.8, 542 Übernachtungen. 
+> {{</box>}}
+> ```
 
 ## **Was und wer ist Pluto?**
 
 Pluto ist eine Jugendnotschlafstelle in Bern, die seit dem 27.5.2022 offen ist. In dieser kurzen Zeit haben bereits 35 Personen dort geschlafen. Sie befindet sich an der Studerstrasse 44. Die Notschlafstelle bietet Schutz und eine Unterkunft für Jugendliche und junge Erwachsene zwischen 14 und 23 Jahren. Sie ist zwischen 18:00 und 09:00 Uhr geöffnet. Während den Öffnungszeiten sind von den acht Mitarbeitern und Mitarbeiterinnen immer mindestens zwei vor Ort. Im Gespräch mit Stéphanie erfahre ich, dass vier der Mitarbeiter und Mitarbeiterinnen Fachpersonen der Sozialen Arbeit und vier Profis in ihrem eigenen sozialwissenschaftlichen Bereich sind. Somit sind alle angestellten Personen ausgebildet, die Jugendlichen und junge Erwachsene zu beraten, falls dies notwendig oder gefragt ist. Pluto bietet den Jugendlichen und jungen Erwachsenen nämlich nicht nur eine Unterkunft, sondern auch Hilfe an, eine individuelle und möglichst nachhaltige Lösung für ihre Probleme zu finden. Hierbei können die Jugendliche und junge Erwachsene selber entscheiden, wer worüber informiert wird. Als ich gefragt habe, ob dies auch bei häuslicher Gewalt so sei, hat Stéphanie mir erklärt, dass bei Erwachsenen die Entscheidung bei ihnen liegt. «Wir können sie unterstützen und beraten, aber wir wollen niemanden in irgendetwas reindrängen.» Bei Minderjährigen jedoch müssen nach zwei Tagen die Eltern oder der Vormund informiert werden, wo das Kind/die betreute Person ist. Wenn nun häusliche Gewalt vermutet oder bestätigt wird, können die Mitarbeiter und Mitarbeiterinnen auch die KESB (Kinder- und Erwachsenenschutz Behörde) oder andere involvierte Personen informieren. Dies war jedoch bis jetzt noch nicht notwendig, weil immer bereits jemand involviert war. Es ist auch möglich, die Notschlafstelle zu besuchen und ein Gespräch zu führen, ohne die Nacht zu verbringen. 
 
-![](bild-rep-2.1.jpg "Ein Einzelzimmer bei Pluto")
+![Ein Einzelzimmer bei Pluto](bild-rep-2.1.jpg)
 
 ## **Wo gibt es Notschlafstellen? Wer darf dorthin? Wieso geht man dorthin?**
 
@@ -42,15 +48,13 @@ Es gibt viele Gründe, wieso eine Person das Bedürfnis hat, zu einer Notschlafs
 >
 > *\-Stéphanie Schäfges*
 
-![Bei Pluto gibt es drei Doppelzimmer und zwei Einzelzimmer. Jedes Zimmer ist nach einem Planeten im Sonnensystem benannt. Es hat zwei Badezimmer, wobei es in einem eine Badewanne mit Dusche und im anderen nur eine Dusche hat. Im ersten Stock hat es, neben anderen Zimmern, eine Küche, ein Esszimmer und ein Wohnzimmer. Das Haus ist sehr schön gebaut und auch schön dekoriert. Bei Pluto ist es auch erlaubt ein Haustier wie ein Hund oder eine Katze zu bringen. Dafür hat es auch eine kleine Schale am Boden im Esszimmer.  ]( "Das Haus von Pluto")
-
 ## **Soziale Hilfe bei Notschlafstellen**
 
 Bei manchen Notschlafstellen sind Experten dort, damit die Besucher professionelle Hilfe erhalten können. Diese sind dort, um mit den Besuchern eine effektive und nachhaltige Lösung zu ihren Problemen zu finden. Dies ist kostenfrei und die Experten werden von der Notschlafstelle oder vom Staat bezahlt, doch mehr zu den Finanzen weiter unten im Text. Die Experten helfen die Besucher Lösungen zu finden, jedoch können sie die Besucher nicht zwingen etwas zu tun. Stéphanie hat mir erklärt, dass sie nur bei Minderjährigen jemanden nach zwei Tagen informieren müssen. Bei Erwachsenen hingegen machen sie nur, was die Person wünscht. «Wir können sie unterstützen und beraten, aber wir wollen niemanden in irgendetwas reindrängen.»
 
 Bei Minderjährigen ist dies jedoch anders. Da müssen nach 48h die Eltern, ein Vormund oder eine Organisation wie die KESB informiert werden. Davor besprechen die Mitarbeiter oder Experten mit dem jugendlichen Besucher, über was die Eltern, Vormünder oder KESB informiert werden sollen. Wo sich der Jugendliche oder die Jugendliche befindet, muss den Eltern oder Vormünder gesagt werden. Wieso der oder die Betroffene dort ist, hingegen, müssen die Eltern oder Vormünder oder KESB nicht erfahren, wenn der oder die Betroffen dies nicht will.
 
-![](bild-rep-3.2.jpg "Ein blick auf den Gang bei Pluto")
+![Ein blick auf den Gang bei Pluto](bild-rep-3.2.jpg)
 
 ## **Letztens**
 
