@@ -14,7 +14,7 @@ description = "\nWas machen, wenn man von zuhause einfach mal wegmuss? Wohin wen
 Sobald meine Sachen gepackt waren, habe ich mein Haus verlassen und bin zur Bushaltestelle gelaufen. Jetzt sitze ich hier und warte auf den Bus. Streit ist etwas, was ich in meinem Leben nicht brauche und wenn ich weiss, dass es nichts bringt zu diskutieren gehe ich einfach raus. Damit der Streit nicht eskaliert, muss man manchmal weggehen, damit niemand verletzt wird. Wenn ich geblieben wäre, hätte ich meine Mutter verletzt, was nichts gebracht hätte, weshalb ich lieber gehe. Während ich hier sitze und auf den Bus warte, lasse ich meine Gedanken wandern. Was machen Jugendliche, welche von zuhause wegwollen, aber nirgends hinkönnen? Ich kann in solchen Fällen einfach von meiner Mutter zu meinem Vater oder umgekehrt. Jedoch können dies nicht alle Jugendliche. Und bei Freunden schlafen unter der Woche ist immer schwierig. Dazu fragen die Eltern der Freunde immer, ob die eigenen Eltern auch einverstanden sind. Wohin diese Jugendliche gehen, frage ich mich heute noch, weswegen ich auf Antworten Suche gehe. 
 Auf der Suche nach Antworten bin ich auf die Notschlafstelle Pluto gestossen. Nach weiterer Recherche hat sich mein Interesse dafür verstärkt. Also habe ich entschieden, das Pluto-Team zu fragen, ob ich mit ihm ein Interview führen darf. Zum Glück haben sie ja geantwortet und am Montag, dem 7.11.2022 um 10:30 Uhr bin ich bei Pluto angekommen. Stéphanie Schäfges hat mich empfangen. Nach einer kurzen Tour haben wir uns an den Tisch gesetzt und das Interview gemacht.  
 
-![](bild-rep-1.2.jpg "Aussengebäude Pluto")
+![Aussengebäude](bild-rep-1.2.jpg "Aussengebäude Pluto")
 
 ## **Was sind Notschlafstellen?**
 
