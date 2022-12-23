@@ -1,13 +1,15 @@
 +++
 title = "Wohin? Dahin! Notschlafstellen. "
 date = "2022-12-22"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "lol.jpeg"
 description = "\nWas machen, wenn man von zuhause einfach mal wegmuss? Wohin wenn man eine Nacht lang verschwinden will? Auf der Suche nach Antworten habe ich mich nach Bern an die Studerstrasse 44 bewegt, wo sich die Notschlafstelle Pluto befindet. \n"
 +++
 **Eine Reportage von Nathalie Schürmann**
+
+![Das Haus, wo die Notschlafstelle Pluto sich befindet, ist zweistöckig. Es bietet 6-7 Schlafplätze. Jedoch hat mir Stéphanie verraten, dass es bereits mehrmals passiert ist, dass mehr Jugendliche dort hatten als Schlafplätze. In solchen Ausnahmesituationen legen sie noch Matratzen aus und quetschen sich zusammen. Dies hat mich sehr berührt, weil man in so Momenten merkt, wie viele junge Menschen manchmal eine Unterkunft brauchen. Es hat auch Duschen und, falls jemand mehrere Nächte bleiben will, gibt es die Option Sachen dort zu lassen. Falls jemand mal Wäsche waschen muss, stehen Waschmaschinen bereit. Am Abend gibt es immer Nachtessen und am Morgen Morgenessen. Durchschnittlich bleiben die Besucher und Besucherinnen 15 Tage. Der kürzeste Aufenthalt hat 1nacht gedauert, der Längste 57 Nächte. Insgesamt gab es vom 27.5 bis am 31.8, 542 Übernachtungen. ]( "Angebot bei Pluto")
 
 Sobald meine Sachen gepackt waren, habe ich mein Haus verlassen und bin zur Bushaltestelle gelaufen. Jetzt sitze ich hier und warte auf den Bus. Streit ist etwas, was ich in meinem Leben nicht brauche und wenn ich weiss, dass es nichts bringt zu diskutieren gehe ich einfach raus. Damit der Streit nicht eskaliert, muss man manchmal weggehen, damit niemand verletzt wird. Wenn ich geblieben wäre, hätte ich meine Mutter verletzt, was nichts gebracht hätte, weshalb ich lieber gehe. Während ich hier sitze und auf den Bus warte, lasse ich meine Gedanken wandern. Was machen Jugendliche, welche von zuhause wegwollen, aber nirgends hinkönnen? Ich kann in solchen Fällen einfach von meiner Mutter zu meinem Vater oder umgekehrt. Jedoch können dies nicht alle Jugendliche. Und bei Freunden schlafen unter der Woche ist immer schwierig. Dazu fragen die Eltern der Freunde immer, ob die eigenen Eltern auch einverstanden sind. Wohin diese Jugendliche gehen, frage ich mich heute noch, weswegen ich auf Antworten Suche gehe. 
 Auf der Suche nach Antworten bin ich auf die Notschlafstelle Pluto gestossen. Nach weiterer Recherche hat sich mein Interesse dafür verstärkt. Also habe ich entschieden, das Pluto-Team zu fragen, ob ich mit ihm ein Interview führen darf. Zum Glück haben sie ja geantwortet und am Montag, dem 7.11.2022 um 10:30 Uhr bin ich bei Pluto angekommen. Stéphanie Schäfges hat mich empfangen. Nach einer kurzen Tour haben wir uns an den Tisch gesetzt und das Interview gemacht.  
@@ -39,6 +41,8 @@ Es gibt viele Gründe, wieso eine Person das Bedürfnis hat, zu einer Notschlafs
 > *"Man darf kommen, wenn man Betrunken ist, gekifft hat oder andere Drogen konsumiert hat."*
 >
 > *\-Stéphanie Schäfges*
+
+![Bei Pluto gibt es drei Doppelzimmer und zwei Einzelzimmer. Jedes Zimmer ist nach einem Planeten im Sonnensystem benannt. Es hat zwei Badezimmer, wobei es in einem eine Badewanne mit Dusche und im anderen nur eine Dusche hat. Im ersten Stock hat es, neben anderen Zimmern, eine Küche, ein Esszimmer und ein Wohnzimmer. Das Haus ist sehr schön gebaut und auch schön dekoriert. Bei Pluto ist es auch erlaubt ein Haustier wie ein Hund oder eine Katze zu bringen. Dafür hat es auch eine kleine Schale am Boden im Esszimmer.  ]( "Das Haus von Pluto")
 
 ## **Soziale Hilfe bei Notschlafstellen**
 
