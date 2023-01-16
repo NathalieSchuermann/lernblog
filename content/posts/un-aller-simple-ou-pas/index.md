@@ -1,7 +1,7 @@
 +++
 title = "Un aller simple ou pas?"
 date = "2023-01-16"
-draft = true
+draft = false
 pinned = false
 tags = ["französisch", "lektüre", "francophonie", ""]
 image = "f99c75dc-79a4-4846-940c-1d1b41484b60.jpeg"
